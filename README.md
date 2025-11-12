@@ -1,4 +1,4 @@
-# # Алана - Осетинский AI Чат-бот
+## Алана - Осетинский AI Чат-бот
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 ### Скачать Docker образ
 
- **Готовый образ (56MB):** [Скачать с Google Drive](https://drive.google.com/your-link-here)
+ **Готовый образ (56MB):** [Скачать с Google Drive](https://drive.google.com/drive/folders/1YYs3d5DaENeEwX9OtahYXqwDGGDCSKXC?usp=sharing)
 
 ### Запуск за 3 шага:
 
