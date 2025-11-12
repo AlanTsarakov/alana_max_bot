@@ -1,5 +1,5 @@
 ## Алана - Осетинский AI Чат-бот
-ССЫЛКА НА .env внутри документа
+Ссылка на .env внутри отосланного документа
 
 <div align="center">
 
@@ -33,7 +33,7 @@
  **Готовый образ (56MB):** [Скачать с Google Drive](https://drive.google.com/drive/folders/1YYs3d5DaENeEwX9OtahYXqwDGGDCSKXC?usp=sharing)
 
 ### Запуск за 3 шага:
-
+Ссылка на .env внутри отосланного документа
 ```bash
 # 1. Скачайте alana-max-bot.tar.gz с Google Drive
 
