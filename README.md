@@ -1,6 +1,5 @@
 ## Алана - Осетинский AI Чат-бот
-
-##ССЫЛКА НА .env внутри документа
+ССЫЛКА НА .env внутри документа
 
 <div align="center">
 
@@ -40,6 +39,7 @@
 
 # 2. Загрузите образ в Docker
 docker load < alana-max-bot.tar.gz
+docker load -i alana-max-bot.tar.gz(Windows PowerShell)
 
 # 3. Запустите контейнер
 docker run -d --name alana-bot --env-file .env alana-max-bot
