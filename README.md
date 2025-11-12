@@ -38,7 +38,9 @@
 # 1. Скачайте alana-max-bot.tar.gz с Google Drive
 
 # 2. Загрузите образ в Docker
+docker load < alana-max-bot.tar
 docker load < alana-max-bot.tar.gz
+docker load -i alana-max-bot.tar
 docker load -i alana-max-bot.tar.gz(Windows PowerShell)
 
 # 3. Запустите контейнер
