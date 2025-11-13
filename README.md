@@ -29,7 +29,9 @@
 
 ### Скачать Docker образ
 
- **Готовый образ (56MB):** [Скачать с Google Drive](https://drive.google.com/drive/folders/1YYs3d5DaENeEwX9OtahYXqwDGGDCSKXC?usp=sharing)
+**Готовый образ (56MB):**
+[Скачать с Яндекс Диск]https://disk.yandex.ru/d/YMQPjBfVq8IGWg
+[Скачать с Google Drive](https://drive.google.com/drive/folders/1YYs3d5DaENeEwX9OtahYXqwDGGDCSKXC?usp=sharing)
 
 ### Запуск за 3 шага:
 Файл .env находится внутри архива с файлами решения. Также в .docx продублированы ключи.
