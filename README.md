@@ -29,8 +29,8 @@
 
 ### Скачать Docker образ
 
-**Готовый образ (56MB):**
-[Скачать с Яндекс Диск]https://disk.yandex.ru/d/YMQPjBfVq8IGWg
+**Готовый образ (56MB):**<br>
+[Скачать с Яндекс Диск]https://disk.yandex.ru/d/YMQPjBfVq8IGWg<br>
 [Скачать с Google Drive](https://drive.google.com/drive/folders/1YYs3d5DaENeEwX9OtahYXqwDGGDCSKXC?usp=sharing)
 
 ### Запуск за 3 шага:
